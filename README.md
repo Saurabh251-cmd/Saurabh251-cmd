@@ -1,8 +1,7 @@
 
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=Saurabh251-cmd&color=brightgreen) ![](https://hit.yhype.me/github/profile?user_id=119947991)
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=Saurabh251-cmd&color=brightgreen) ![](https://hit.yhype.me/github/profile?user_id=119947991)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh251-cmd&layout=compact&theme=dark&count_private=true)](https://github.com/Saurabh251-cmd)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Saurabh251-cmd&show_icons=true&hide_title=true&hide_border=true)](https://github.com/Saurabh251-cmd)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh251-cmd&layout=compact&theme=dark&count_private=true)](https://github.com/Saurabh251-cmd)
 <img src="https://raw.githubusercontent.com/Saurabh251-cmd/Saurabh251-cmd/master/pc.gif" width = "230" height = "250" alt=""/>
 <img src="https://raw.githubusercontent.com/Saurabh251-cmd/Saurabh251-cmd/master/pc1.gif" width = "230" height = "250" alt=""/>
 <!--
